@@ -8,3 +8,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love playing and DIY lego!
 
+👉 Here is [my personal website](https://ting-portfolio.vercel.app).
