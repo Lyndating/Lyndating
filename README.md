@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer 👩🏻‍💻
 
-- 👩‍🎓 I’m currently working as Devops intern in NAB. 👉 Here is [my personal website](https://ting-portfolio.vercel.app).🌈
+- 👩‍🎓 I’m currently working as Devops in NAB. 👉 Here is [my personal website](https://ting-portfolio.vercel.app).🌈
 - 💻 I’m currently learning AWS and Java.
 - 💬 Feel free ask me about anything..
 - 😄 Pronouns: she/her
